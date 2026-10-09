@@ -12,4 +12,8 @@
 ## Ferramenta usada
 Foi utilizado ChatGPT para gerar o código e depois houve refino manualmente.
 
+## Dashboard publicada
+
+Acesse aqui: [Porsche Sales Dashboard](https://leonardoshinzato.github.io/porsche-sales-dashboard/)
+
 <img width="678" height="640" alt="printdashboard" src="https://github.com/user-attachments/assets/15bf030b-977c-4dab-950f-f7b73de31008" />
